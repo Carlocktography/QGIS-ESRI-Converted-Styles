@@ -17,4 +17,4 @@ These QGIS XML files arer being shared as is for those who wish to have more sym
 # Update (4/11/2019):
 Please see Brett Carlock's Github page for a set of corresponding QGIS GPL files converted from ESRI Styles. Thanks, Brett for contributing more styles/color schemes for use in QGIS.
 
- https://github.com/Saijin-Naib/QGIS-ESRI-Converted-Palettes
+ https://github.com/Carlocktography/QGIS-ESRI-Converted-Palettes
